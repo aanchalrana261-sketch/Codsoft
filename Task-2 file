@@ -1,0 +1,58 @@
+🍋 LEMON Restaurant Menu
+
+A modern and colorful restaurant menu website built using 
+HTML and CSS. This project focuses on creating an attractive
+and user-friendly dining experience with a clean layout,
+vibrant lemon-inspired theme, and responsive design.
+
+🚀 Features
+
+- Modern Lemon Theme UI
+- Responsive Design
+- Interactive Menu Sections
+- Starters, Main Course, and Desserts Categories
+- Order Online Card
+- Reserve Table Card
+- Smooth Hover Effects
+- Clean and Easy Navigation
+
+🛠️ Technologies Used
+
+- HTML5
+- CSS3
+
+📂 Project Structure
+
+LEMON-Restaurant-Menu/
+│
+├── index.html
+└── README.md
+
+🎨 Theme
+
+The website uses a bright yellow and orange 
+color palette inspired by fresh lemons to create 
+a vibrant and welcoming restaurant atmosphere.
+
+📱 Responsive Design
+
+The layout is optimized for:
+
+- Desktop
+- Tablet
+- Mobile Devices
+
+📸 Preview
+
+LEMON Restaurant Menu provides a visually appealing
+interface where customers can browse menu items, check
+prices, place orders, and reserve tables.
+
+👨‍💻 Author
+
+Created as a UI/UX Restaurant Menu Project.
+
+---
+
+⭐ If you like this project, consider giving 
+it a star on GitHub.
