@@ -1,0 +1,5 @@
+body{margin:0;font-family:Arial,sans-serif;background:#f57c00;display:flex;justify-content:center;align-items:center;height:100vh;}
+.container{width:320px;background:white;padding:30px;border-radius:20px;text-align:center;box-shadow:0 4px 10px rgba(0,0,0,.2);}
+h1,h2{color:#f57c00;} input{width:90%;padding:12px;margin:10px 0;border:1px solid #ccc;border-radius:10px;}
+button{width:100%;padding:12px;border:none;border-radius:10px;background:#f57c00;color:white;cursor:pointer;}
+a{text-decoration:none;}
