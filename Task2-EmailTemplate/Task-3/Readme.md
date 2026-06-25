@@ -20,6 +20,10 @@ The goal of this project is to design a professional
 restaurant menu page while improving front-end development
 skills using HTML, CSS, and JavaScript.
 
+## Screenshot
+
+![Restaurant Menu](Screenshot.jpg)
+
 
 ## 🚀 How to Run
 1. Clone or download this repository.
